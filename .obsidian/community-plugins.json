@@ -1,5 +1,4 @@
 [
-  "table-editor-obsidian",
   "better-word-count",
   "obsidian-style-settings",
   "recent-files-obsidian",
@@ -9,5 +8,6 @@
   "obsidian-excalidraw-plugin",
   "obsidian-kanban",
   "obsidian-charts",
-  "obsidian-git"
+  "obsidian-git",
+  "table-editor-obsidian"
 ]
