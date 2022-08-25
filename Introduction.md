@@ -70,7 +70,13 @@ $(document).ready(function () {
 -----
 - 链接
 Markdown 支持两种超链接的定义方式：行内定义和全局声明。不管哪种方式，其都是由中括号来声明。如果需要创建行内链接的创建方式，用一对紧跟「中括号 []」的「小括号 ()」描述目标链接，小括号内不仅可以包含链接的地址，也可以用「引号  “”」设定链接的标题。
-[Google](https://www.google.com)
-[谷歌]
-[g]:https://www.google.com
+[Google](https://www.google.com/ "谷歌")
+<p><a href=http://www.google.com>Google</a></p>
+#### 声明超链接的细节
+
+[天坛][tt]公园，是明清两代皇帝每年祭天和祈祷五谷丰收的地方。[天坛][tt]以严谨的建筑布局、奇特的建筑构造和瑰丽的建筑装饰著称于世。        
+
+[tt]: http://www.tiantanpark.com
 ******
+- 图片
+<alt Text>
