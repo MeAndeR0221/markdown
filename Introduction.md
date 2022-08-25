@@ -87,7 +87,15 @@ Markdown 支持两种超链接的定义方式：行内定义和全局声明。�
 
 ******
 - 图片
-Markdown:![[BG 1.png]]
-HTML:<a href="https://www.baidu.com"><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fblog%2F202102%2F28%2F20210228161850_1ea74.thumb.1000_0.jpeg&refer=http%3A%2F%2Fc-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1664008388&t=adbc3117cafb43e6d19596c53df06a1d"  width="30%" alt="eva"></a>
+Markdown: ![box](https://img-blog.csdnimg.cn/20200903084333309.png)
+
+
+
+HTML:<a href="https://www.baidu.com"><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fblog%2F202102%2F28%2F20210228161850_1ea74.thumb.1000_0.jpeg&refer=http%3A%2F%2Fc-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1664008388&t=adbc3117cafb43e6d19596c53df06a1d"  width="30%" alt="eva" align=center></a>
 引用：同上。
 ***
+- 表格
+Markdown 制作表格使用 | 来分隔不同的单元格，使用 - 来分隔表头和其他行。
+| 表  | 头  |
+| --- | --- |
+| 114 | 514 |
