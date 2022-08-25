@@ -5,16 +5,16 @@
       "path": "Introduction.md"
     },
     {
-      "basename": "Beginner",
-      "path": "Beginner.md"
-    },
-    {
       "basename": "link",
       "path": "link.md"
     },
     {
       "basename": "README",
       "path": "README.md"
+    },
+    {
+      "basename": "Beginner",
+      "path": "Beginner.md"
     },
     {
       "basename": "访问网站",
