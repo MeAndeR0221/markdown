@@ -3,7 +3,7 @@
   "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default",
   "blue-topaz-theme@@background-settings-workplace-background-image": true,
   "blue-topaz-theme@@simple-titlebar": false,
-  "blue-topaz-theme@@blur-depth": 20,
+  "blue-topaz-theme@@blur-depth": 11,
   "blue-topaz-theme@@brightness-4-bg": 0.9,
   "blue-topaz-theme@@saturate-4-bg": 1.3,
   "blue-topaz-theme@@background-settings-workplace-theme-light": "background-settings-workplace-theme-light-custom-option",
