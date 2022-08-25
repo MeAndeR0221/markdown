@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
   "id": "obsidian-kanban",
   "name": "Kanban",
@@ -9,15 +8,3 @@
   "authorUrl": "https://github.com/mgmeyers/obsidian-kanban",
   "isDesktopOnly": false
 }
-=======
-{
-  "id": "obsidian-kanban",
-  "name": "Kanban",
-  "version": "1.3.17",
-  "minAppVersion": "0.15.3",
-  "description": "Create markdown-backed Kanban boards in Obsidian.",
-  "author": "mgmeyers",
-  "authorUrl": "https://github.com/mgmeyers/obsidian-kanban",
-  "isDesktopOnly": false
-}
->>>>>>> 496de9b2b87438ca4b725d2f6828c4c68b9bd05c

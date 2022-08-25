@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "f65c3d35952a33fe",
+        "id": "3883a0867d23ed69",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 182
+    "width": 130
   },
   "right": {
     "id": "722aa05b13522dc0",
@@ -143,19 +143,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 161.09091186523438
+    "width": 100
   },
-  "active": "f65c3d35952a33fe",
+  "active": "3883a0867d23ed69",
   "lastOpenFiles": [
-    "README.md",
-    "link.md",
-    "Introduction.md",
     "Beginner.md",
-    "Attachment/BG.png",
-    "Attachment/Pasted image 20220822222456.png",
-    "Attachment/HTML基础.md",
-    "Excalidraw/Drawing 2022-08-22 22.21.05.excalidraw.md",
-    "home/meand_er/BG.png.md",
-    "| at most.md"
+    "Introduction.md",
+    "link.md",
+    "README.md",
+    "三次握手.md",
+    "前端&后端&架构.md",
+    "Attachment/Pasted image 20220824224939.png",
+    "Attachment/Pasted image 20220824224832.png",
+    "Attachment/Pasted image 20220824222649.png",
+    "Attachment/Pasted image 20220824185808.png"
   ]
 }

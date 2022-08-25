@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
   "id": "better-word-count",
   "name": "Better Word Count",
@@ -8,14 +7,3 @@
   "authorUrl": "https://lukeleppan.com",
   "isDesktopOnly": false
 }
-=======
-{
-  "id": "better-word-count",
-  "name": "Better Word Count",
-  "version": "0.8.1",
-  "description": "Counts the words of selected text in the editor.",
-  "author": "Luke Leppan",
-  "authorUrl": "https://lukeleppan.com",
-  "isDesktopOnly": false
-}
->>>>>>> 496de9b2b87438ca4b725d2f6828c4c68b9bd05c
