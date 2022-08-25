@@ -1,0 +1,23 @@
+<<<<<<< HEAD
+{
+	"id": "obsidian-excalidraw-plugin",
+	"name": "Excalidraw",
+	"version": "1.7.15",
+	"minAppVersion": "0.15.6",
+	"description": "An Obsidian plugin to edit and view Excalidraw drawings",
+	"author": "Zsolt Viczian",
+	"authorUrl": "https://zsolt.blog",
+	"isDesktopOnly": false
+}
+=======
+{
+	"id": "obsidian-excalidraw-plugin",
+	"name": "Excalidraw",
+	"version": "1.7.15",
+	"minAppVersion": "0.15.6",
+	"description": "An Obsidian plugin to edit and view Excalidraw drawings",
+	"author": "Zsolt Viczian",
+	"authorUrl": "https://zsolt.blog",
+	"isDesktopOnly": false
+}
+>>>>>>> 496de9b2b87438ca4b725d2f6828c4c68b9bd05c
