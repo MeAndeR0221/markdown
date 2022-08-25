@@ -5,6 +5,10 @@
       "path": "Introduction.md"
     },
     {
+      "basename": "BG",
+      "path": "Attachment/BG.png"
+    },
+    {
       "basename": "link",
       "path": "link.md"
     },
@@ -91,10 +95,6 @@
     {
       "basename": "Pasted image 20220822222456",
       "path": "Attachment/Pasted image 20220822222456.png"
-    },
-    {
-      "basename": "BG",
-      "path": "Attachment/BG.png"
     },
     {
       "basename": "Drawing 2022-08-22 22.21.05.excalidraw",

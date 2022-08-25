@@ -87,4 +87,7 @@ Markdown 支持两种超链接的定义方式：行内定义和全局声明。�
 
 ******
 - 图片
-<alt Text>
+Markdown:![Text](https://img1.baidu.com/it/u=2313654175,3606685119&fm=253&fmt=auto&app=138&f=JPEG?w=600&h=480 =200*200 "nerv")
+HTML:<a href="https://www.baidu.com"><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fblog%2F202102%2F28%2F20210228161850_1ea74.thumb.1000_0.jpeg&refer=http%3A%2F%2Fc-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1664008388&t=adbc3117cafb43e6d19596c53df06a1d"  width="30%" alt="eva"></a>
+引用：同上。
+***
